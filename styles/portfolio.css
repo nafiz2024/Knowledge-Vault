@@ -1,0 +1,12 @@
+/* Body Style */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* Shared Style */
+.font-work-sans {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
