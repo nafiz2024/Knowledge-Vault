@@ -20,6 +20,10 @@ main {
   font-optical-sizing: auto;
 }
 
+.green_color {
+  color: #09ff00;
+}
+
 .btn {
   color: #005fac;
   background-color: #fff;
@@ -40,6 +44,7 @@ main {
 
 header {
   background: url("../images/banner/banner3.png");
+  background-repeat: no-repeat;
 }
 
 .banner_content {
@@ -59,4 +64,49 @@ header {
   color: white;
   line-height: 26px;
   margin-bottom: 32px;
+}
+
+/* About Section Style */
+#about {
+  display: flex;
+  justify-content: center;
+  padding: 131px 0px;
+}
+
+.about_container {
+  width: 71%;
+  max-width: 1140px;
+  display: flex;
+  justify-content: space-between;
+  gap: 87px;
+}
+
+.about_text {
+  padding-top: 239px;
+  width: 416px;
+}
+
+.about_text h2 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 24px;
+  color: #151414;
+}
+
+.about_text p {
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 16px;
+  color: #444343;
+}
+
+.about_point {
+  gap: 8px;
+}
+
+.point {
+  font-size: 16px;
+  color: #444343;
+  line-height: 26px;
+  gap: 10px;
 }
