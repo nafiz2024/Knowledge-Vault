@@ -23,22 +23,22 @@
 
 ## File Structure
 knowledge-vault/
-│
-├─ index.html
-├─ styles/
-│ └─ portfolio.css
-├─ images/
-│ ├─ person.png
-│ ├─ gradient1.png
-│ └─ icons/
-│ ├─ web.png
-│ ├─ js.png
-│ ├─ smoke.png
-│ ├─ ecom.png
-│ ├─ fb.png
-│ ├─ twitter.png
-│ └─ youtube.png
-└─ README.md
+- │
+- ├─ index.html
+- ├─ styles/
+- │ └─ portfolio.css
+- ├─ images/
+- │ ├─ person.png
+- │ ├─ gradient1.png
+- │ └─ icons/
+- │ ├─ web.png
+- │ ├─ js.png
+- │ ├─ smoke.png
+- │ ├─ ecom.png
+- │ ├─ fb.png
+- │ ├─ twitter.png
+- │ └─ youtube.png
+- └─ README.md
 
 
 ## How to Use
@@ -57,6 +57,6 @@ Open the index.html file in a web browser to view the website.
 This project is for personal use or portfolio demonstration. You can customize it for your own purposes.
 
 ## Author:
-- Nafiz Alam
-- Email: nafizalam.dev@gmail.com
-- Location: Dhaka, Bangladesh
+- **Name**: Nafiz Alam- 
+- **Email**: nafizalam.dev@gmail.com
+- **Location**: Dhaka, Bangladesh
